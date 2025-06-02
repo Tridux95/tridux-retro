@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Super Mario Bros. Crossover</title>
+  <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+  <style>
+    body { background-color: #000; color: #fff; text-align: center; font-family: monospace; padding: 40px; }
+    embed { box-shadow: 0 0 30px #ffcc00; }
+  </style>
+</head>
+<body>
+  <h1>Super Mario Crossover</h1>
+  <embed src="super-mario-crossover.swf" width="800" height="600">
+  <p style="color:gray; margin-top: 15px;">
+    Juego por Jay Pavlina / Exploding Rabbit – preservado con fines educativos y tributo.
+  </p>
+</body>
+</html>
